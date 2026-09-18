@@ -1,0 +1,62 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Everything else is a catalog path, ID, and simple name, colon-separated.
+
+VERSION 1
+
+aadb330c-ca67-58bc-af9c-2468ee2c2b3e:Items/ITMW:Items-ITMW
+77487443-6d6e-59d7-ac4c-e205ff2d7944:Mobs/Addon:Mobs-Addon
+50064b6e-f4d6-5cad-bf07-8876c44fd7b0:Mobs/NewWorld:Mobs-NewWorld
+f6a18193-3e12-5130-808b-a2c569c4b757:Mobs/Misc:Mobs-Misc
+c27be74a-1d8a-51f4-bbdb-fab09dbd6f33:Mobs/Household:Mobs-Household
+aab388dd-7b3d-5cc8-9ec6-822048f2f261:Mobs/Uncategorized:Mobs-Uncategorized
+0cb84bad-9195-5d24-bd77-978e9722f9a2:Mobs/_work:Mobs-_work
+d596dfd6-fcf4-5f77-958f-300a19a0c3d6:Mobs/Addon/Events:Mobs-Addon-Events
+b5a49efb-e455-5122-8837-ffa2405043f9:Mobs/NewWorld/nolod:Mobs-NewWorld-nolod
+c900a74f-e50c-5311-9151-08399d6e807f:Mobs/Addon/nolod:Mobs-Addon-nolod
+0abd8a09-080f-5bc5-9a42-451c684bdcc9:Magic:Magic
+10410e38-e966-580b-990e-676dd7fd8c22:Mobs/Nature:Mobs-Nature
+d972ea49-31f3-57b8-8165-26b1912b289a:Mobs/OldWorld:Mobs-OldWorld
+12b3f4cc-4a3a-58e3-864d-763b9ef369fe:Items/IT_FakeScroll:Items-IT_FakeScroll
+ac992048-c335-58cf-bd73-7ab6d99b1dca:Mobs/NewWorld/Events:Mobs-NewWorld-Events
+0573a609-c240-5c16-a0e3-f38054e95ddb:Mobs/Planks:Mobs-Planks
+620e4733-e211-5594-879d-e06f6dabf751:Mobs/Stones:Mobs-Stones
+03f8f8d2-f5da-471c-8b3d-490b9f0cee4f:Materials/Water:Materials-Water
+80044b88-d573-4493-b768-8a3b5b19590f:Materials/Ice_Snow:Materials-Ice_Snow
+ed11d2ff-7f64-4d27-9d71-87656fd4325d:Materials/Fire_Lava:Materials-Fire_Lava
+49866d93-dd11-4448-9a9a-0c39d1512759:Materials/Sand_Desert:Materials-Sand_Desert
+c2970789-5289-4b64-acc0-632dbf72d313:Materials/Stair:Materials-Stair
+5c6e4cd9-4e71-4f21-8a74-9858088243ec:Materials/Roof:Materials-Roof
+4ac41ff2-54d2-4ae8-827c-693561b42e29:Materials/Door:Materials-Door
+1128b469-dacb-411f-8ed4-f4d8b0336708:Materials/Window:Materials-Window
+0fa91c0b-b60b-44c4-b83c-6dbdf2395298:Materials/Brick:Materials-Brick
+e8a4ab2b-a868-4ecf-aab9-bf88acef990a:Materials/Metal:Materials-Metal
+e2edee76-a37c-4d6b-a2f6-4758fde05f40:Materials/Fabric:Materials-Fabric
+06e8476d-4bd2-435d-9e98-303b9f479edb:Materials/Furniture:Materials-Furniture
+170df105-6093-4329-a08c-94fb2124a195:Materials/Decal:Materials-Decal
+81e9a3a2-af42-4526-8daf-bb8d4d6d90cd:Materials/Ornament:Materials-Ornament
+03bd8cf6-aad2-4db5-9e6f-376fc644c73f:Materials/Ship:Materials-Ship
+65530a92-7157-4890-ad61-4d299a6562a4:Materials/Wood:Materials-Wood
+236879ae-ac39-4c9a-bba8-023b975cae23:Materials/Nature:Materials-Nature
+5d253bb0-c216-4ad1-afc4-68ef2a4424d0:Materials/Rock_Cave:Materials-Rock_Cave
+b55a1168-55dd-42e4-ac34-aea2b562629f:Materials/Ground:Materials-Ground
+accda948-aa1d-492d-9e8f-a35455d44134:Materials/Wall:Materials-Wall
+76b25cdb-96ac-4051-b29a-ab579bc000b2:Materials/Stone:Materials-Stone
+e6957900-afdc-4a98-97b7-b996baa8b38a:Materials/Misc:Materials-Misc
+84ba5033-23f0-5691-a0cc-0887a6cbbc72:Items/TORCH:Items-TORCH
+64d2ea11-a3a7-57af-8ece-70be58d2354f:Items/AMULET:Items-AMULET
+8c716dca-f24a-5704-a228-0083961fc0b4:Items/ARMOR:Items-ARMOR
+57ee86d1-7856-5d1f-a9eb-e9da23dfd3e7:Items/FOOD:Items-FOOD
+0760822c-7c49-55be-bfab-7e2a1e726d68:Items/ITRW:Items-ITRW
+ab562fc1-9bee-589e-a55c-50ce24891638:Items/KEYS:Items-KEYS
+f0109fa8-523f-587d-b6d4-3ea00fb634a3:Items/MISC:Items-MISC
+0c272e52-aa36-51e7-9e66-56b948229645:Items/PLANTS:Items-PLANTS
+b3b0e38a-dd06-520c-9ffa-d2343b37811d:Items/POTIONS:Items-POTIONS
+a4d7568c-15f6-5499-a4da-013211338652:Items/RINGS:Items-RINGS
+6510189f-aa7d-5ad2-b9df-7dff776a952e:Items/RUNES:Items-RUNES
+e46a4eed-2d5b-5bbd-b826-93b1ca033a34:Items/SCROLLS:Items-SCROLLS
+8bdcc174-4564-5741-b52d-b0d1a68b23bc:Items/SECRETS:Items-SECRETS
+b371518e-bf09-58f3-9e36-f23775a8ab23:Items/TROPHY:Items-TROPHY
+22b58888-0b0f-5a6a-bb62-1af0b0d0cf85:Items/WRITTEN:Items-WRITTEN
